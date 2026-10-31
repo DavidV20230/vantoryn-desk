@@ -1,0 +1,26 @@
+﻿Vantoryn Desk — Portable v6 / 免安裝版 / ポータブル版
+===================================================
+
+繁體中文：
+1. 整個 ZIP 先「全部解壓縮」；不要直接在壓縮檔裡執行 EXE。
+2. 開啟 VantorynDesk-Portable-v6 資料夾，雙擊 VantorynDesk.exe。
+3. 不要把 EXE 單獨移走，請保留 sounds/ 等資源。
+4. 完整說明：README_zh-TW.md。首次使用預設英文，工具選擇畫面右上角可切換語言。
+
+English:
+1. Extract the ENTIRE ZIP first. Do not run the EXE from inside the archive preview.
+2. Open VantorynDesk-Portable-v6 and run VantorynDesk.exe.
+3. Keep sounds/ and other files together with the executable.
+4. Read README_en.md for the full guide. English is the default; switch language at the top-right of the tool picker.
+
+日本語：
+1. ZIP 全体を先に「すべて展開」してください。圧縮ファイル内から EXE を実行しないでください。
+2. VantorynDesk-Portable-v6 フォルダー内の VantorynDesk.exe を起動します。
+3. sounds/ などのファイルを EXE と同じ構成で保管してください。
+4. 詳細は README_ja.md をご覧ください。初回は英語で、ツール選択画面の右上から言語を変更できます。
+
+THIS IS A PREVIEW RELEASE. UNSIGNED WINDOWS PROGRAM. USE AT YOUR OWN DISCRETION.
+公開預覽版，尚未數位簽章。使用前請自行評估。
+公開プレビュー版・コード署名なし。ご自身で安全性をご判断ください。
+
+Official release: https://github.com/DavidV20230/vantoryn-desk/releases
